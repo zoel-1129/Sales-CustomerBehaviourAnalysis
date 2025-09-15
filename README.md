@@ -10,7 +10,7 @@ This project presents a data-driven analysis of customer purchase behaviour for 
 
 
 
-1. Objective: Analyse sales and customer behaviour to identify patterns and optimise marketing strategies.
+1\. Objective: Analyse sales and customer behaviour to identify patterns and optimise marketing strategies.
 
 
 
@@ -68,6 +68,7 @@ This project presents a data-driven analysis of customer purchase behaviour for 
 
 * PDF report: Summarises methodology, key findings, and actionable recommendations for management.
 * R scripts: Contain all code used for data cleaning, analysis, and visualisation.
+
 
 
 
