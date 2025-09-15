@@ -50,24 +50,13 @@ This project presents a data-driven analysis of customer purchase behaviour for 
 
 
 
-6\. Project Structure
-
-├── data/                 # Raw and preprocessed datasets
-
-├── notebooks/            # R scripts containing analysis code
-
-├── reports/              # PDF report summarising methodology and findings
-
-└── README.md             # Project overview and documentation
-
-
-
-7\. Documentation
+6\. Documentation
 
 
 
 * PDF report: Summarises methodology, key findings, and actionable recommendations for management.
-* R scripts: Contain all code used for data cleaning, analysis, and visualisation.
+* R scripts & markdowns: Contain all code used for data cleaning, analysis, and visualisation.
+
 
 
 
